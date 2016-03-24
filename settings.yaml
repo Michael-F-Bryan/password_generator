@@ -1,0 +1,6 @@
+mutators_filename: /tmp/uuuuuuuucds/mutators.py
+settings_file: /tmp/uuuuuuuucds/settings.yaml
+word_list_files: {adjective: dict/adj.txt, adverb: dict/adverb.txt, noun: dict/nouns.txt,
+  verb: dict/verbs.txt}
+word_order: [adjective, noun, adverb, verb, noun]
+word_separator: ' '
